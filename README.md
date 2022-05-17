@@ -1,2 +1,2 @@
-# my-forma-letter
+# my-formal-letter
 writing
